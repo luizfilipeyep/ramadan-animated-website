@@ -144,6 +144,10 @@ section {
     section {
         padding: 150px 20px;
 
+        .mosque {
+            max-width: 400px;
+        }
+
         header {
             padding: 20px;
 
@@ -170,13 +174,12 @@ section {
             .navigation {
                 display: none;
 
-                ul {
-                    li {
-                        margin: 10px 0;
+                li {
+                    margin: 10px 0;
 
-                        a {
-                            margin-left: 0;
-                        }
+                    a {
+                        margin-left: 0;
+                        font-size: 1.5em;
                     }
                 }
             }
@@ -192,6 +195,22 @@ section {
                 justify-content: center;
                 align-items: center;
             }
+        }
+
+        .content {
+            .textBox {
+                h1 {
+                    font-size: 2.5em;
+                }
+            }
+        }
+    }
+}
+
+@media(max-width: 600px) {
+    section {
+        .mosque {
+            opacity: .4;
         }
     }
 }
