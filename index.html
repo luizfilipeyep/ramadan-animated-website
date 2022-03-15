@@ -12,6 +12,7 @@
         <img class="mosque" src="assets/mosque.jpg" alt="">
         <header>
             <a href="#" class="logo">Ramadan</a>
+            <div class="toggle"></div>
             <ul class="navigation">
                 <li><a href="#" class="active">Home</a></li>
                 <li><a href="#">About</a></li>
@@ -35,5 +36,14 @@
             <li><a href="#"><img src="assets/instagram.png" alt="instagram logo"></a></li>
         </ul>
     </section>
+
+    <script>
+        const menuToggle = document.querySelector('.toggle')
+        const navigation = document.querySelector('.navigation')
+        menuToggle.onclick = function () {
+            menuToggle.classList.toggle('active')
+            navigation.classList.toggle('active')
+        }
+    </script>
 </body>
 </html>
