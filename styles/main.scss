@@ -17,6 +17,13 @@ section {
     justify-content: flex-start;
     align-items: center;
 
+    .mosque {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        max-width: 700px;
+    }
+
     header {
         position: fixed;
         top: 0;
