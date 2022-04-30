@@ -1,8 +1,9 @@
 # Responsive Form with HTML, CSS and JAVASCRIPT
 
 <div style="display: inline_block">
-  <img src="https://github.com/luizfilipeyep/responsive-login-form/blob/master/screenshots/Screenshot_42.png" width="800">
- <img src="https://github.com/luizfilipeyep/responsive-login-form/blob/master/screenshots/Screenshot_43.png" width="200">
+  <img src="https://github.com/luizfilipeyep/ramadan-animated-website/blob/main/screenshots/Screenshot_42.png" width="800">
+  <img src="https://github.com/luizfilipeyep/ramadan-animated-website/blob/main/screenshots/Screenshot_43.png" width="200">
+  <img src="https://github.com/luizfilipeyep/ramadan-animated-website/blob/main/screenshots/Screenshot_44.png" width="200">
 </div>
 
-Based on https://github.com/sefyudem/Responsive-Login-Form with some modifications.
+Based on https://www.youtube.com/watch?v=6JQFpqtBWeU with some modifications.
