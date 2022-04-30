@@ -7,3 +7,5 @@
 </div>
 
 Based on https://www.youtube.com/watch?v=6JQFpqtBWeU with some modifications.
+<br>
+Access in GitHub Pages: https://luizfilipeyep.github.io/ramadan-animated-website/
