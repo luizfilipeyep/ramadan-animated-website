@@ -1,4 +1,4 @@
-# Responsive Form with HTML, CSS and JAVASCRIPT
+# Animated Website with HTML, CSS and JAVASCRIPT
 
 <div style="display: inline_block">
   <img src="https://github.com/luizfilipeyep/ramadan-animated-website/blob/main/screenshots/Screenshot_42.png" width="800">
